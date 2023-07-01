@@ -1,3 +1,17 @@
+
+img {
+    border-radius: 50%;
+    float: right;
+    width: 500px;
+    height: 500px;
+  }
+.h1 {
+    font-size: 40px;
+  }
+  .h2{
+    font-size: 30px;
+  }
+=======
 .form-label {
     text-align: left;
 }
@@ -33,3 +47,4 @@
     width: 50%;
     height: 200px;
 }
+
