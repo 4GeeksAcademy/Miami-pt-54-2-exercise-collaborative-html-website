@@ -2,6 +2,7 @@
     display: block;
     width: 100%;
     height: auto;
+    margin-top: 20px;
 }
 
 .container {
@@ -44,7 +45,7 @@
     margin-top: 0;
 }
 
-    img {
+    .img-services {
         border-radius: 50%;
         float: right;
         width: 500px;
@@ -78,6 +79,7 @@
 
     .nav-wrapper {
         background-color: rgb(39, 39, 39) !important;
+        margin-bottom: 30px;
     }
 
     .nav-wrapper a,
