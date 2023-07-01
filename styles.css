@@ -10,3 +10,8 @@ body {
 .navbar-nav .nav-link.active {
     color: #ccc !important;
 }
+.services-wrapper img {
+    border-radius: 50%;
+    width: 50%;
+    height: 200px;
+}
