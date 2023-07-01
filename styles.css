@@ -13,8 +13,13 @@
 
 #buttonContact {
     padding-left: 90%;
+<<<<<<< HEAD
 }
 
+=======
+    
+}
+>>>>>>> d55579d7a12b85cb73d43c02e3ac48ebfc8bebb6
 .nav-wrapper {
     background-color: rgb(39, 39, 39) !important;
 }
@@ -32,5 +37,4 @@
     border-radius: 50%;
     width: 50%;
     height: 200px;
-
 }
