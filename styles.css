@@ -1,4 +1,21 @@
 
+.form-label {
+    text-align: left;
+}
+
+#contactHeading {
+    text-align: left;
+    margin: auto;
+}
+#contactCard {
+    width: 50%;
+}
+#buttonContact {
+    padding-left: 90%;
+    
+
+
+
 .nav-wrapper {
     background-color: rgb(39, 39, 39) !important;
 }
@@ -12,4 +29,5 @@
     border-radius: 50%;
     width: 50%;
     height: 200px;
+
 }
