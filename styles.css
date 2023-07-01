@@ -37,63 +37,88 @@
 
 #bigheader {
     font-size: 100px;
-    margin-top: 0;
+    margin-top: 0%;
 }
+#taglineContainer {
+    margin-top: 20px;
+}
+/* .text-block-big {
+    margin-top: 150px;
+} */
 
 #smallheader {
     font-size: 90px;
     margin-top: 0;
 }
-
-    .img-services {
+/* #headingContainer {
+    padding-top: 10px;
+} */
+/* .img-secondHead {
         border-radius: 50%;
         float: right;
         width: 500px;
         height: 500px;
-    }
+    } */
+.img-secondHead {
+    border-radius: 50%;
+    float: right;
+    width: 200px;
+    height: 200px;
+    /* padding-bottom: 20px; */
 
-    .h1 {
+}
+/* #secHeading .p{
+    font-size: small;
+    
+} */
+
+/* .h1 {
         font-size: 40px;
     }
 
     .h2 {
         font-size: 30px;
-    }
+    } */
 
-    .form-label {
-        text-align: left;
-    }
+.form-label {
+    text-align: left;
+}
 
-    #contactHeading {
-        text-align: left;
-        margin: auto;
-    }
+#contactHeading {
+    text-align: left;
+    margin: auto;
+    padding-bottom: 20%;
+}
 
-    #contactCard {
-        width: 50%;
-    }
+#contactCard {
+    width: 50%;
+}
 
-    #buttonContact {
-        padding-left: 90%;
-    }
+#buttonContact {
+    padding-left: 90%;
+}
 
-    .nav-wrapper {
-        background-color: rgb(39, 39, 39) !important;
-        margin-bottom: 30px;
-    }
+.nav-wrapper {
+    background-color: rgb(39, 39, 39) !important;
+    margin-bottom: 30px;
+}
 
-    .nav-wrapper a,
-    .nav-wrapper a:hover {
-        color: #ccc;
-    }
+.nav-wrapper a,
+.nav-wrapper a:hover {
+    color: #ccc;
+}
 
-    .navbar-nav .nav-link.active {
-        color: #ccc !important;
-    }
+.navbar-nav .nav-link.active {
+    color: #ccc !important;
+}
 
-    .services-wrapper img {
-        border-radius: 50%;
-        width: 50%;
-        height: 200px;
+.services-wrapper img {
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
 
-    }
+}
+
+#wrapper {
+    margin-bottom: 20%;
+}
