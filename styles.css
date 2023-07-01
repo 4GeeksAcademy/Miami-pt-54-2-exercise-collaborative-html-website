@@ -1,50 +1,40 @@
-
 img {
     border-radius: 50%;
     float: right;
     width: 500px;
     height: 500px;
-  }
+}
 .h1 {
     font-size: 40px;
-  }
-  .h2{
+}
+.h2 {
     font-size: 30px;
-  }
-=======
+}
 .form-label {
     text-align: left;
 }
-
 #contactHeading {
     text-align: left;
     margin: auto;
 }
-
 #contactCard {
     width: 50%;
 }
-
 #buttonContact {
     padding-left: 90%;
-    
 }
 .nav-wrapper {
     background-color: rgb(39, 39, 39) !important;
 }
-
 .nav-wrapper a,
 .nav-wrapper a:hover {
     color: #ccc;
 }
-
 .navbar-nav .nav-link.active {
     color: #ccc !important;
 }
-
 .services-wrapper img {
     border-radius: 50%;
     width: 50%;
     height: 200px;
 }
-
