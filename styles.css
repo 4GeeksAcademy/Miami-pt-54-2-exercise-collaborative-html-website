@@ -1,3 +1,4 @@
+
 .form-label {
     text-align: left;
 }
@@ -12,5 +13,21 @@
 #buttonContact {
     padding-left: 90%;
     
+
+
+
+.nav-wrapper {
+    background-color: rgb(39, 39, 39) !important;
+}
+.nav-wrapper a, .nav-wrapper a:hover {
+    color: #ccc;
+}
+.navbar-nav .nav-link.active {
+    color: #ccc !important;
+}
+.services-wrapper img {
+    border-radius: 50%;
+    width: 50%;
+    height: 200px;
 
 }
